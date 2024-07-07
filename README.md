@@ -2,7 +2,7 @@
 # Projeto fokus desenvolvido durante o curso da Alura em parceria com o programa Inova Maranhão.
 
 Fokus é uma página web desenvolvida para otimizar a produtividade pessoal. O projeto permite aos usuários organizar suas tarefas de maneira eficiente, oferecendo funcionalidades como gestão de lista de afazeres, definição de prioridades e acompanhamento de progresso. Com uma interface intuitiva, o Fokus facilita o foco e a concentração nas atividades diárias. Durante o desenvolvimento, foram implementadas técnicas de design responsivo e interações dinâmicas para uma experiência de usuário aprimorada.
-<img src="">
+<img src="Banner-projeto-Fokus.png">
 
 #### Link de visualização do projeto
 [Clique aqui para ver o projeto](https://marcoskdev.github.io/projeto-fokus-curso-alura/)
